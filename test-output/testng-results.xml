@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample TestNG Suite" duration-ms="88" started-at="2021-06-28T07:55:44Z" finished-at="2021-06-28T07:55:44Z">
+    <groups>
+    </groups>
+    <test name="Sample TestNG Test" duration-ms="88" started-at="2021-06-28T07:55:44Z" finished-at="2021-06-28T07:55:44Z">
+      <class name="sample_testng_project.test2">
+        <test-method status="PASS" signature="display()[pri:0, instance:sample_testng_project.test2@643b1d11]" name="display" duration-ms="0" started-at="2021-06-28T07:55:44Z" finished-at="2021-06-28T07:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method status="PASS" signature="show()[pri:0, instance:sample_testng_project.test2@643b1d11]" name="show" duration-ms="8" started-at="2021-06-28T07:55:44Z" finished-at="2021-06-28T07:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- sample_testng_project.test2 -->
+      <class name="sample_testng_project.test1">
+        <test-method status="PASS" signature="display()[pri:0, instance:sample_testng_project.test1@6cc4c815]" name="display" duration-ms="37" started-at="2021-06-28T07:55:44Z" finished-at="2021-06-28T07:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- sample_testng_project.test1 -->
+    </test> <!-- Sample TestNG Test -->
+  </suite> <!-- Sample TestNG Suite -->
+</testng-results>
